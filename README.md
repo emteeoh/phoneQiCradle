@@ -5,6 +5,8 @@ Currently supported charge pads:
 - Mophie Wireless charge pad
 - Ikea Livboj
 
+# My phone
+My phone is an iphone SE2, in a case. The design is made in openSCAD, and is parametric, so you shouldn't have trouble adapting to different phones or charge pads.
 
 # License
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
